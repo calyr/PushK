@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "297406491583",
+    "firebase_url": "https://pushk-32e35.firebaseio.com",
+    "project_id": "pushk-32e35",
+    "storage_bucket": "pushk-32e35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297406491583:android:1b7dc0d2dd83e8bc",
+        "android_client_info": {
+          "package_name": "app.calyr.com.pushk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297406491583-kdv4u3vm81fh4utb0ald6emmjvojng8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.calyr.com.pushk",
+            "certificate_hash": "4277419b36582e9647c06ee7caabd52849e216bb"
+          }
+        },
+        {
+          "client_id": "297406491583-ur86h85ujbp59lb5dgkhtt923et06tuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ-tbovewsEVF_RZk8_TTVzvYXLVCv3_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297406491583-ur86h85ujbp59lb5dgkhtt923et06tuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
